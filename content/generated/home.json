@@ -1,0 +1,207 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Sweep The Moon: Updated Roblox Guide and Wiki – Roblox Guide",
+  "description": "Explore Sweep The Moon on Roblox with a guide to finding the right game, starting out, cleaning, upgrades, factory systems, events, and public changes.",
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "Sweep The Moon Wiki & Guide",
+    "heading": "Sweep The Moon Roblox Guide and Wiki",
+    "lead": "Sweep The Moon is a Roblox incremental cleaner by DomBlox Games — find it at Place ID 109576450376407. You start with a toothbrush, sweep dust tile by tile into a canister, and empty it at a base for cash. That cash funds brush, canister, and speed upgrades, then drivable sweepers, giant rovers, robots, belts, and machines. Up to four players can work together toward one goal: get the Moon to 100% clean. This guide covers entry point verification, the core loop, factory automation, upgrades, vehicles, events, and links to every detail page.",
+    "supportingText": "",
+    "primaryLink": {
+      "label": "Open Codes",
+      "slug": "codes"
+    },
+    "secondaryLink": {
+      "label": "Open official game page",
+      "url": "https://www.roblox.com/games/109576450376407"
+    }
+  },
+  "sections": [
+    {
+      "id": "which-game-is-sweep-the-moon-verified-roblox-entry-point",
+      "heading": "Which Game Is Sweep The Moon? Verified Roblox Entry Point",
+      "intro": "Sweep The Moon is a Roblox experience developed by DomBlox Games, available at Place ID 109576450376407 on the Roblox platform. The game sits in the incremental and simulator category, where progression comes from repeatedly cleaning dust off the Moon's surface and reinvesting earnings into better equipment. The official listing sets up the premise plainly: the Moon is buried in space dust, and players must sweep it clean tile by tile until the entire surface reaches 100%.",
+      "paragraphs": [
+        "The developer credits Moon Sweepers, a cleaning game on Steam, as the inspiration for Sweep The Moon. That inspiration speaks to the concept of methodical surface cleaning, but it does not mean the two games share mechanics, statistics, upgrade paths, or reward structures. Sweep The Moon is built as its own Roblox experience with progression designed around the platform's multiplayer capabilities and incremental upgrade systems."
+      ],
+      "table": {
+        "caption": "Sweep The Moon Quick Reference & Progression Overview",
+        "columns": [
+          "Progression Stage",
+          "Core Objective",
+          "Key Mechanic",
+          "Player Priority"
+        ],
+        "rows": [
+          [
+            "Early Game Setup",
+            "Learn Sweep The Moon core loop",
+            "Initial resource & starter unlock",
+            "Complete tutorial loop before spending currency"
+          ],
+          [
+            "Mid Game Scaling",
+            "Unlock higher multiplier tiers",
+            "Loadout / upgrade synergy",
+            "Focus on repeatable milestones and efficiency"
+          ],
+          [
+            "Endgame & Updates",
+            "Bosses, events, and new worlds",
+            "High-tier drops & patch preparation",
+            "Track official update logs and optimize builds"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "start-here-first-steps-and-basic-controls",
+      "heading": "Start Here: First Steps and Basic Controls",
+      "intro": "Your first session in Sweep The Moon begins with a toothbrush and a canister. The opening objective is straightforward: walk onto a dust-covered tile and sweep to collect the dust into your canister. Each tile you clean contributes to the overall Moon cleanliness percentage, so every sweep has a direct purpose from the start.",
+      "paragraphs": [
+        "Canister capacity is the main constraint in the early game. A full canister means a trip back to base, so your first few upgrades should prioritize canister size and brush effectiveness to reduce downtime. Speed upgrades help you move between tiles and return to base faster, which compounds as the cleaning area expands and distances grow.",
+        "You can also invite up to three friends to join your server. Co-op play lets multiple players sweep simultaneously, accelerating tile clearance and sharing progress toward the 100% clean goal. For solo players, the same loop works, just at a slower pace as you cover the map alone."
+      ],
+      "bullets": [
+        "Sweep dust tiles until your canister is full",
+        "Return to base and empty the canister for cash",
+        "Spend cash on brush, canister, or speed upgrades",
+        "Head back out and repeat the cycle with better gear"
+      ]
+    },
+    {
+      "id": "upgrades-vehicles-and-expanding-your-setup",
+      "heading": "Upgrades, Vehicles, and Expanding Your Setup",
+      "intro": "Cash you earn from emptying your canister at the base goes straight into three upgrade tracks: brush, canister, and speed. A better brush clears more tiles per sweep, a larger canister means fewer trips back to base, and speed upgrades cut the time between both. Prioritizing canister early reduces the bottleneck that slows most new players down — you fill up faster than you can return.",
+      "paragraphs": [
+        "Once your manual setup feels efficient, the next step is graduating to drivable sweepers and eventually giant rovers. These vehicles cover far more surface area per pass than any handheld tool, which matters once the Moon map opens up beyond the starting zone. Specific unlock costs and vehicle stats are compared on the Sweep The Moon Vehicles page. After vehicles, the progression continues into full factory automation with robots, belts, and machines — covered in the automation guide."
+      ],
+      "bullets": [
+        "Brush upgrades: clear more tiles per sweep",
+        "Canister upgrades: carry more dust before each base run",
+        "Speed upgrades: move and return faster",
+        "Drivable sweepers: vehicle-tier coverage for mid-game",
+        "Giant rovers: large-scale cleaning for the open Moon surface"
+      ]
+    },
+    {
+      "id": "building-a-factory-robots-belts-and-machines",
+      "heading": "Building a Factory: Robots, Belts, and Machines",
+      "intro": "Once you have enough cash from manual sweeping and vehicle runs, you can unlock the automation layer. Sweep The Moon lets you build robots, belts, and machines that work alongside your direct efforts. Robots sweep tiles on their own, belts transport dust automatically, and machines process the flow — all designed to keep the cleaning running when you step away or focus on another area.",
+      "paragraphs": [
+        "Setting up a working factory requires planning your layout, placing each component where it can reach dust or connect to your base, and managing the flow so canisters fill and empty efficiently. The exact unlock order, costs, and optimal configurations depend on your current cash and Moon coverage.",
+        "For a full breakdown of each automation type, placement strategies, and troubleshooting common setup problems, see the Sweep The Moon Automation guide."
+      ]
+    },
+    {
+      "id": "events-and-how-to-find-current-details",
+      "heading": "Events and How to Find Current Details",
+      "intro": "Sweep The Moon occasionally runs time-limited events that introduce special challenges, cosmetics, or temporary gameplay variations. Because event details change with each update and are announced directly by DomBlox Games, this guide explains where to find current event information rather than listing specific past events.",
+      "paragraphs": [
+        "Event announcements typically appear in the official Roblox game description, in-game notifications, and the developer's social media channels. Before an event starts or during an active event, check the game's main page for patch notes or event banners. If an event has ended, its rewards and mechanics may no longer be available, so timing matters when planning your cleanup strategy around limited-time goals.",
+        "To stay informed about upcoming events, favorite the game and enable notifications through Roblox, then check back periodically or follow DomBlox Games' announcements. This ensures you do not miss event windows that may offer unique progression opportunities or cosmetic unlocks tied to that season."
+      ],
+      "steps": [
+        {
+          "heading": "Check Current Sweep The Moon Requirements",
+          "description": "Review the active mechanics and prerequisites inside Sweep The Moon before committing resources."
+        },
+        {
+          "heading": "Complete the Core Progression Loop",
+          "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+        },
+        {
+          "heading": "Verify Post-Update Changes",
+          "description": "Re-check the comparison table and official Sweep The Moon patch notes whenever a new update drops."
+        }
+      ]
+    },
+    {
+      "id": "approved-player-needs",
+      "eyebrow": "Guides & Wiki",
+      "heading": "Explore Sweep The Moon Guides & Resources",
+      "intro": "Browse our dedicated Sweep The Moon guides covering active redeem codes, beginner progression, tier lists, and core gameplay mechanics.",
+      "links": [
+        {
+          "label": "Sweep The Moon Codes",
+          "slug": "codes",
+          "description": "Check the latest verified Sweep The Moon codes status, possible rewards, redemption evidence, expired code claims, and trusted sources for future updates."
+        },
+        {
+          "label": "Sweep The Moon Beginner Guide",
+          "slug": "beginner-guide",
+          "description": "Start Sweep The Moon with a practical beginner guide to finding the right game, learning controls, making your first sale, and choosing early upgrades."
+        },
+        {
+          "label": "Sweep The Moon Vehicles",
+          "slug": "vehicles",
+          "description": "Compare Sweep The Moon vehicles, including sweepers and giant rovers, with verified unlock details, potential cleaning uses, and unanswered questions."
+        },
+        {
+          "label": "Sweep The Moon Automation",
+          "slug": "automation",
+          "description": "Explore Sweep The Moon automation with an evidence-led guide to robots, belts, machines, setup choices, troubleshooting, and claims that need checking."
+        },
+        {
+          "label": "Sweep The Moon Badges",
+          "slug": "badges",
+          "description": "Find Sweep The Moon badges and their verified requirements, learn where to check the full public list, and track down missing or unconfirmed details. Read more."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Where can I play Sweep The Moon on Roblox?",
+      "answer": "Search \"Sweep The Moon\" on Roblox and look for the game by DomBlox Games, or navigate directly using Place ID 109576450376407. Using the Place ID is the most reliable way to reach the correct experience rather than relying on search results alone."
+    },
+    {
+      "question": "How do I start cleaning in Sweep The Moon?",
+      "answer": "When you first join, you are handed a toothbrush. Walk up to a dust-covered tile and sweep — the dust transfers into your canister. Once the canister is full, return to the base and empty it to receive cash. That cash is your starting currency for all early upgrades."
+    },
+    {
+      "question": "How do upgrades work in Sweep The Moon?",
+      "answer": "Cash earned from emptying your canister funds three core upgrade paths: brush power, canister capacity, and movement speed. Improving all three in parallel reduces downtime between sweeping runs, which compounds quickly in the incremental progression loop."
+    },
+    {
+      "question": "How do I build a factory in Sweep The Moon?",
+      "answer": "After establishing a solid manual sweeping routine, the game unlocks a factory layer where you can place robots, lay conveyor belts, and connect machines to automate dust collection. The full setup and troubleshooting steps are covered in the dedicated automation guide."
+    },
+    {
+      "question": "Are there any Sweep The Moon codes?",
+      "answer": "No codes have been corroborated by two independent sources as of this writing. Check the Sweep The Moon Codes page on this site for the current status, redemption instructions, and any verified rewards as they are confirmed."
+    }
+  ],
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.roblox.com/games/109576450376407",
+      "title": "Sweep The Moon 🌕",
+      "sourceType": "official"
+    },
+    {
+      "url": "https://sweepthemoon.wiki/",
+      "title": "Sweep The Moon",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://sweepthemoon-wiki.wiki/",
+      "title": "Sweep The Moon",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://sweepthemoonwiki.wiki/",
+      "title": "Sweep The Moon",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://www.roblox.com/games/109576450376407",
+      "title": "Sweep The Moon Official Mechanics & Early-Bird Reference",
+      "sourceType": "guide"
+    }
+  ],
+  "lastReviewed": "2026-11-12"
+}
